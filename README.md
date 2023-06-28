@@ -2,9 +2,9 @@
     <img src="header.png" alt="Header image here">
 </div>
 
----
-
 ## A junior developer from Russia
+
+---
 
 ### Languages and Tools
 
