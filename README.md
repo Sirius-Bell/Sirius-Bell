@@ -4,7 +4,7 @@
 
 ---
 
-### A junior developer from Russia
+## A junior developer from Russia
 
 ### Languages and Tools
 
@@ -21,12 +21,12 @@
     <img src="imgs/windows11.svg" alt="Skills here" height=24 width=24>
 </div>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirius-Bell&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirius-Bell&layout=compact&theme=transparent)
 ---
 
 ### My stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirius-Bell&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirius-Bell&layout=compact&theme=transparent)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sirius-Bell&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
